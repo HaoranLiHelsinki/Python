@@ -9,7 +9,7 @@ This is a notebook script for reading and plotting CALIPSO level 2 aerosol data.
 
 NOTE:
 
-No special instruction about the dependencies, since all imported modules are very commonly used. Before running it, edit Path_folder as the folder address where your CALIPSO data are saved in.
+No special instruction about the dependencies, since all imported modules are very commonly used. Before running it, name Path_folder as the folder address where your CALIPSO data are saved in.
 
 The author just started using Python, please do not be suprised by very basic programming style. 
 
